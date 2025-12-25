@@ -1,4 +1,4 @@
-# ----------------------------------Python-Course---------------------------------
+# ---------------Python-Course---------------
 # 🐍 Python Learning Journey: From Zero to Hero
 
 Welcome to my Python repository! I am **Mr Shahzad**, a BSCS student, and this repository serves as a comprehensive log of my journey to mastering Python.
